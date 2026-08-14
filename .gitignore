@@ -1,0 +1,18 @@
+# Secrets
+.env
+*.key
+
+# Python / Jupyter artifacts
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+core
+
+# Never publish full texts (copyright)
+data/full_texts/
+data/*_texts_*/
+*.txt.gz
