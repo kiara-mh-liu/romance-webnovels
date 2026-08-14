@@ -68,5 +68,8 @@ here. This repository contains only factual bibliographic metadata. The
 
 ## License
 
-TODO — see repository settings. (CC BY 4.0 is a common choice for metadata of
-this kind; code released later can carry a separate MIT license.)
+The metadata in this repository is licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](LICENSE).
+
+This covers the compiled metadata and annotations only. The novels themselves
+remain the copyright of their respective authors.
