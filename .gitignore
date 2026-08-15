@@ -16,3 +16,6 @@ core
 data/full_texts/
 data/*_texts_*/
 *.txt.gz
+
+# Draft README, not published yet
+README.draft.md
